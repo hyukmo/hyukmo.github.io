@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hkang04@arizona.edu"      
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=ko"
     #- label: "Linkedin"
     #  icon: "fa-brands fa-linkedin"
@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=ko"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
