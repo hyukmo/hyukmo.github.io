@@ -7,6 +7,6 @@ main:
   - title: "Projects"
     #url: /year-archive/
   - title: "CV"
-    url: /_pages/cv.md
+    url: /cv.md
   # - title: "Sitemap"
   #   url: /sitemap/
