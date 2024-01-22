@@ -1,12 +1,12 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
-    #url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Projects"
+    url: https://hyukmo.github.io/
+  #- title: "Category"
+    #url: /categories/
+  #- title: "Tag"
+    #url: /tags/
+  - title: "Projects"    
     url: /projects/
   - title: "CV"
     url: /cv/
-  # - title: "Sitemap"
-  #   url: /sitemap/
