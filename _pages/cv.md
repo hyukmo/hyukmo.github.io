@@ -1,5 +1,6 @@
 ---
 title: CV
+layout: single
 author: Hyukmo Kang
 date: 2024-01-21
 categories: [CV]
