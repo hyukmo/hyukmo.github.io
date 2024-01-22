@@ -56,9 +56,9 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+#atom_feed:
+  #path                   : # blank (default) uses feed.xml
+  #hide                   : true #false (default)
 search                   : true #false (default)
 search_full_content      : true #false (default)
 search_provider          : # lunr (default), algolia, google
@@ -113,8 +113,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hkang04@arizona.edu"      
-    - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+    - label: " Google Scholar"
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=ko"
     #- label: "Linkedin"
     #  icon: "fa-brands fa-linkedin"
@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=ko"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
