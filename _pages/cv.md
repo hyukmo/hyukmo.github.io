@@ -1,6 +1,5 @@
 ---
 permalink: /cv/
-title: "CV"
 author: Hyukmo Kang
 date: 2024-01-21
 categories: [CV]
