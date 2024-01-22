@@ -1,5 +1,6 @@
 ---
-title: Projects test
+permalink: /projects/
+title: "Projects test"
 author: Hyukmo Kang
 date: 2024-01-21
 categories: [Projects]
