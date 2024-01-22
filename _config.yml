@@ -113,7 +113,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hkang04@arizona.edu"      
-    - label: "Google Scholar"
+    - label: " Google Scholar"
       icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=ko"
     #- label: "Linkedin"
