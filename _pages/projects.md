@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects test"
+title: "Projects"
 layout: collection
 sidebar_main: true
 #author_profile: true
